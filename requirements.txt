@@ -1,0 +1,8 @@
+streamlit
+langchain
+langgraph
+langchain-google-genai
+country-state-city
+duckduckgo-search
+python-dotenv
+pyyaml
