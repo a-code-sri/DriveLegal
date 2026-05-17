@@ -3,25 +3,27 @@ streamlit==1.45.1
 pyyaml==6.0.2
 python-dotenv==1.1.0
 
-langgraph==0.4.7
-langchain==0.3.25
-langchain-community==0.3.24
-langchain-core==0.3.60
-langchain-google-genai==2.1.4
-langchain-chroma==0.2.4
-langchain-huggingface==0.2.0
+langgraph==0.2.56
 
-chromadb==1.0.9
+langchain==0.3.19
+langchain-core==0.3.37
+langchain-community==0.3.18
 
-sentence-transformers==4.1.0
-transformers==4.51.3
-huggingface-hub==0.31.2
+langchain-google-genai==2.0.11
+langchain-chroma==0.1.4
+langchain-huggingface==0.1.2
 
-torch==2.7.0
-torchvision==0.22.0
+chromadb==0.5.23
 
-duckduckgo-search==8.0.2
+sentence-transformers==3.4.1
+transformers==4.49.0
+huggingface-hub==0.29.1
+
+torch==2.6.0
+torchvision==0.21.0
+
+duckduckgo-search==7.5.2
 
 country-state-city==0.1.0
 
-protobuf==5.29.4
+protobuf==5.29.3
