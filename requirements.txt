@@ -6,7 +6,7 @@ python-dotenv==1.1.0
 langgraph==0.4.7
 langchain==0.3.25
 langchain-community==0.3.24
-langchain-core==0.3.59
+langchain-core==0.3.60
 langchain-google-genai==2.1.4
 langchain-chroma==0.2.4
 langchain-huggingface==0.2.0
